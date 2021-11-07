@@ -1,3 +1,7 @@
+### This repo will not be maintained, issues raised will not be addressed, etc etc.  
+### Use at your own risk.  
+
+
 Flutter Fastlane Android Docker Images
 ===
 
